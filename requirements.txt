@@ -1,0 +1,5 @@
+tensorflow
+pytorch==1.6.0
+efficientnet_pytorch
+scikit-learn
+opencv-python
